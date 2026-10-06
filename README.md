@@ -1,4 +1,5 @@
 # Github-first_repo
 this is first repository created by Ganesh
 <br>
-1 change
+I'm currently learning git
+
